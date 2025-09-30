@@ -64,4 +64,5 @@ The Azure OpenAI API returns responses in JSON format by default because it incl
 - Tokens usage (prompt, completion, total)
 - Content filtering results
 - Message indices and finish reasons
+
 This structured format makes it easier to programmatically process, log, or extract the raw text for end-user display while keeping all metadata for auditing, monitoring, or debugging purposes.
