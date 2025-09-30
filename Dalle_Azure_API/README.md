@@ -22,6 +22,6 @@ The use case is to automate **image creation** for applications like content gen
 
 Here’s an example of an image generated using Azure AI Foundry:
 
-![Generated Image](images/generated_image.png)
+<img src="images/generated_image.png" alt="Generated Image" width="400"/>
 
 
